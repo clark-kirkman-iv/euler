@@ -2,7 +2,7 @@
 # Clark Kirkman IV
 # clark.kirkman.iv@gmail.com
 #
-# Run: ruby 42.rb words.txt
+# Run: ruby 42.rb words_42.txt
 
 # A Hash of char (a-z) -> value (1-26)
 CHAR_VALUE = Hash[('a'..'z').to_a.map{ |char|
